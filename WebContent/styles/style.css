@@ -1,0 +1,139 @@
+
+a {
+	color: blue; }
+
+.body {
+	margin: 10px 20px 10px 20px;
+	background-color: black; }
+	
+.body2 {
+	margin: 10px 40px 10px 40px;
+	background-color: black; }
+
+.cartext {
+	color: white; 
+	font-size: 30px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }
+
+.subtext {
+	color: white; 
+	font-size: 18px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }
+	
+.subtext2 {
+	color: black; 
+	font-size: 16px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }
+
+.subtext3 {
+	color: black;
+	text-decoration: underline; 
+	font-size: 19px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }
+
+.pad {
+	padding-top: 2px;}
+
+table.mytable {
+	margin-bottom: 5em;
+	width: 100%;
+	background-color: #F5F5F5; }
+	
+tr {
+	vertical-align: top; }
+
+tr.mytr {
+	background-color: black;
+	display: block; }
+	
+.imgborder {
+	border: 2px solid white; }
+
+.imgborder2 {
+	border: 3px solid black; }
+
+.mytd {
+	padding-left: 2em;
+	padding-right: 4em;
+	align: left; }
+
+.footer {
+	vertical-align: bottom;
+	margin-bottom: 10px;
+	display: flex;
+	text-align: center; }
+
+#mytd2 {
+	vertical-align: middle;
+	text-align: center; }
+	
+#money {
+	font-style: italic; }
+
+#tdwidth {
+	width: 40em; }
+
+#white {
+	color: #F5F5F5; }
+
+#spaceBut {
+	margin-right: 3em;
+	margin-left: 3em;
+	padding-left: 7em;
+	padding-right: 7em; }
+
+#spaceBut2 {
+	margin-right: 3em;
+	margin-left: 3em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 7em;
+	padding-right: 7em; }
+
+#space0 {
+	padding-bottom: 0.5em; }
+
+#space1 {
+	padding-bottom: 1em; }
+
+#space2 {
+	padding-bottom: 5em; }
+	
+#center {
+	display: flex;
+	justify-content: center; }
+	
+#myh1 {
+	color: #F5F5F5;
+	font-size: 5em; }
+	
+#myh2 {
+	margin-top: 3em;
+	color: #F5F5F5;
+	font-size: 5em; }
+
+#myh3 {
+	margin-top: 1em;
+	color: #F5F5F5;
+	font-size: 5em; }
+
+#myh4 {
+	margin-top: 2em;
+	color: #F5F5F5;
+	font-size: 3em;
+	margin-bottom: 2em; }
+
+#subLink {
+	font-size: 18px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-top: 10px; }
+	
+#subLink2 {
+	text-align: right;
+	font-size: 18px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin-top: 10px; }
+	
+#header {
+	display: flex;
+    justify-content: space-between; }
